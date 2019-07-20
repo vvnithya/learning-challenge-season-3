@@ -1,58 +1,46 @@
 # learning-challenge-season-3
 
-This week topics: (pick any 2)
-Python
-NLP
-
-Java
-
-Scala
-
-Postgres
-
-MySQL
-
-Javascript
-
-Reactjs
-
-Anguarjs/Angular
-
-Machine Learning Basics
-
-Keras
-
-TensorFlow
-
-PyTorch
-
-OpenCV
+## Topics: (pick any 2)
+- Python
+- NLP
+- Java
+- Scala
+- Postgres
+- MySQL
+- Javascript
+- Reactjs
+- Anguarjs/Angular
+- Machine Learning Basics
+- Keras
+- TensorFlow
+- PyTorch
+- OpenCV
 
 ## Teams:
 
 Team 1:
-Asapanna Rakesh
-Nithya VV
-Ashutosh Krishnakumar Mishra
-Mohammad Ashraf Rais Pinjari 
+- Asapanna Rakesh
+- Nithya VV
+- Ashutosh Krishnakumar Mishra
+- Mohammad Ashraf Rais Pinjari 
 
 Team 2:
-Saiteja nalam
-M SatyaDivya
-Vishal Bhardwaj
-Santosh Selvasundar
+- Saiteja nalam
+- M SatyaDivya
+- Vishal Bhardwaj
+- Santosh Selvasundar
 
 Team 3:
-Vignesh M
-Shruthi S
-Balanagu Yashwanth
-Amar Katiyar
+- Vignesh M
+- Shruthi S
+- Balanagu Yashwanth
+- Amar Katiyar
 
 Team 4:
-Monish
-Chandra Prakash
-MUSHKHAN. F
-Bhavanagattuboyena
+- Monish
+- Chandra Prakash
+- MUSHKHAN. F
+- Bhavanagattuboyena
 
 Team 5:
 Syed Rafi Naqvi
