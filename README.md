@@ -2,7 +2,6 @@
 
 This week topics: (pick any 2)
 Python
-
 NLP
 
 Java
