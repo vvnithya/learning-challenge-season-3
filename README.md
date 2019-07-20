@@ -2,18 +2,31 @@
 
 This week topics: (pick any 2)
 Python
+
 NLP
+
 Java
+
 Scala
+
 Postgres
+
 MySQL
+
 Javascript
+
 Reactjs
+
 Anguarjs/Angular
+
 Machine Learning Basics
+
 Keras
+
 TensorFlow
+
 PyTorch
+
 OpenCV
 
 ## Teams:
