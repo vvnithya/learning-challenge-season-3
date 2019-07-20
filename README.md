@@ -1,5 +1,12 @@
 # learning-challenge-season-3
 
+## Rules:
+- You will have to fork this repository first (install Git if you don't have it on your machine)
+- Learn minimum 40 mins every day from the topic you mentioned and prove your learning by committing something in the forked repository
+- You should have a minium of 4 commits every day to get the minimum points for the day
+- For the more information on the points, check the "Point Criteria" seciton below
+
+
 ## Topics: (pick any 2)
 - Python
 - NLP
@@ -43,22 +50,22 @@ Team 4:
 - Bhavanagattuboyena
 
 Team 5:
-Syed Rafi Naqvi
-Syed  Abdallah Albeez
-Sandhya S
-N. T V Nitesh
+- Syed Rafi Naqvi
+- Syed  Abdallah Albeez
+- Sandhya S
+- N. T V Nitesh
 
 Team 6:
-Mallipudi Bhavya sri
-Satheesh kumar
-RAVI SAI SARAN
-Poojitha Kumaran 
+- Mallipudi Bhavya sri
+- Satheesh kumar
+- RAVI SAI SARAN
+- Poojitha Kumaran 
 
 Team 7:
-Lingari Sujitha
-YUVAN bajjurla
-Yarragunta  Sriram Krishna
-aravapalli Murali krishna
+- Lingari Sujitha
+- YUVAN bajjurla
+- Yarragunta  Sriram Krishna
+- Aravapalli Murali krishna
 
 ## Point criteria: (Applicable for Individual candidates)
 - Help others in the group - Max 30 points daily
